@@ -1,4 +1,4 @@
-const products = [
+const services = [
   {
     id: 'recZkNf2kwmdBcqd0',
     name: 'accent chair',
@@ -34,4 +34,4 @@ const products = [
   },
 ];
 
-export default products;
+export default services;
